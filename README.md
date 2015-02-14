@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Programming Principles</a>
+# <img src="https://raw.githubusercontent.com/seyna/awesome-programming-principles/master/awesome-logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Programming Principles</a>
 
 A collection of awesome programming principles. The essential principles to build modern softwares.
 
