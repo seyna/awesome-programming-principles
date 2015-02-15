@@ -27,7 +27,7 @@ Sharing, suggestions and contributions are always welcome!
 * [Ninety-ninety rule](http://en.wikipedia.org/wiki/Ninety-ninety_rule) - A humorous aphorism that states: _**"The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time."**_
 * [Occam's Razor](http://en.wikipedia.org/wiki/Occam%27s_razor) - Among competing hypotheses, the one with the fewest assumptions should be selected.
 * [Pareto Principle (80:20 rule)](http://en.wikipedia.org/wiki/Pareto_principle#In_software) - For many events, roughly 80% of the effects come from 20% of the causes.
-* [Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development) - An iterative and incremental agile software development framework for managing product development.
+* [Scrum](http://en.wikipedia.org/wiki/Scrum) - An iterative and incremental agile software development framework for managing product development.
 * [Worse is Better](http://en.wikipedia.org/wiki/Worse_is_better) - There is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Software that is limited, but simple to use, may be more appealing to the user and market than the reverse.
 * [YAGNI](http://en.wikipedia.org/wiki/KISS_principle) - An acronym for _**"You aren't gonna need it"**_. It states that a programmer should not add functionality until deemed necessary.
 
