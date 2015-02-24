@@ -18,13 +18,16 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Generic
 
-* [Agile software development](http://en.wikipedia.org/wiki/Agile_software_development) - A group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. Contrary to **waterfall model**.
-* [Code Reusse](http://en.wikipedia.org/wiki/Code_reuse) - Use of existing software, or software knowledge, to build new software, following the reusability principles.
+* [Agile software Development](http://en.wikipedia.org/wiki/Agile_software_development) - A group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. Contrary to **waterfall model**.
+* [Code Reuse](http://en.wikipedia.org/wiki/Code_reuse) - Use of existing software, or software knowledge, to build new software, following the reusability principles.
 * [Code Smell](http://en.wikipedia.org/wiki/Code_smell) - Any symptom in the source code of a program that possibly indicates a deeper problem.
+* [Discoverability](http://en.wikipedia.org/wiki/Discoverability) - The ability of something, especially a piece of content or information, to be found. "Metadata", the so-called "information of information", is introduced.
 * [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself) - so-called _**"Don't Repeat Yourself"**_. A principle of software development, aimed at reducing repetition of information of all kinds, especially useful in multi-tier architectures
 * [Extreme Programming](http://en.wikipedia.org/wiki/Extreme_programming) - As a type of agile software development, it advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted.
+* [Fail-fast](http://en.wikipedia.org/wiki/Fail-fast) - A fail-fast system is designed to immediately report at its interface any failure or condition that is likely to lead to failure.
 * [KISS](http://en.wikipedia.org/wiki/KISS_principle) - An acronym for _**"Keep it simple, stupid"**_
 * [Ninety-ninety rule](http://en.wikipedia.org/wiki/Ninety-ninety_rule) - A humorous aphorism that states: _**"The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time."**_
+* [Loose Coupling](http://en.wikipedia.org/wiki/Loose_coupling) - A loosely coupled system is one in which each of its components has, or makes use of, little or no knowledge of the definitions of other separate components.
 * [Occam's Razor](http://en.wikipedia.org/wiki/Occam%27s_razor) - Among competing hypotheses, the one with the fewest assumptions should be selected.
 * [Pareto Principle (80:20 rule)](http://en.wikipedia.org/wiki/Pareto_principle#In_software) - For many events, roughly 80% of the effects come from 20% of the causes.
 * [Scrum](http://en.wikipedia.org/wiki/Scrum) - An iterative and incremental agile software development framework for managing product development.
